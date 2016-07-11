@@ -1,0 +1,23 @@
+{
+  "name": "demo-app",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Jaipal Reddy <dandujaipalreddy@hotmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.6.3",
+    "jquery": "^3.0.0"
+  }
+}
